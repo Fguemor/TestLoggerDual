@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+    <registro>
+        <date>2022-05-18 09:33:13,060</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:33:13,313</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:33:47,642</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:33:47,934</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:35:31,666</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:35:31,919</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:35:35,344</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:35:35,620</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:42:44,423</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:42:44,695</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:49:48,249</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:49:48,521</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:51:20,503</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 09:51:20,818</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:13:13,650</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:13:13,916</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:13:39,825</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:13:40,101</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:30:16,493</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:30:16,731</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:34:17,866</date>
+        <logger>edu.log.TestLog</logger>
+        <level>DEBUG</level>
+        <message>DEBUG</message>
+    </registro>
+    <registro>
+        <date>2022-05-18 10:34:18,127</date>
+        <logger>edu.log.TestLog</logger>
+        <level>INFO</level>
+        <message>INFO</message>
+    </registro>
+</log>
